@@ -1,4 +1,4 @@
-title:brendon's destiny wishlist
+title:brendon_destiny_wishlist
 description:curated by me
 
 // Enyo-D - enyo god roll (god-pve)
