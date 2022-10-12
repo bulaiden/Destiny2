@@ -6,6 +6,11 @@ description:curated by me
 dimwishlist:item=1601177201&perks=839105230,3142289711,2779035018,3425386926,1607056502
 
 
+// Enyo-D - enyo general notes ()
+//notes: uhh well lets test to see if this works
+dimwishlist:item=1601177201&perks=1607056502
+
+
 // Funnelweb - funnelweb PvE god roll (god-pve)
 //notes: - adrenaline junkie is bad because its inflexible (playstyle rigidity) && proccing it is often mutually exclusive w/ vortex grenade weaking a boss target
 - funnelweb has 96 recoil but its horizontal movement is still crazy, so I still want 100 recoil even though its only +4 tags:god-pve
