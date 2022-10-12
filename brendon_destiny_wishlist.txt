@@ -1,0 +1,8 @@
+title:brendon's destiny wishlist
+description:curated by me
+
+// Enyo-D - enyo god roll (god-pve)
+//notes: not a meta PvE nor PvP weapon (rank ~90) tags:god-pve
+dimwishlist:item=1601177201&perks=839105230,3142289711,2779035018,3425386926,1607056502
+
+
