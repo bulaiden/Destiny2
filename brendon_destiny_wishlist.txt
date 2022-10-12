@@ -9,7 +9,8 @@ description:curated by me
 dimwishlist:item=1601177201&perks=839105230,3142289711,2779035018,3425386926,1607056502
 
 // enyo feeding frenzy
-dimwishlist:item=1601177201&perks=2779035018,1607056502#notes:feeding frenzy roll
+// uhh why isn't my block notes being applied? #notes:feeding frenzy roll
+dimwishlist:item=1601177201&perks=2779035018,1607056502
 
 // Enyo-D - enyo
 dimwishlist:item=1601177201&perks=1607056502
