@@ -51,6 +51,7 @@ dimwishlist:item=-2852052802&perks=
 
 //notes: PvE god roll = [Volatile Launch, Spike Grenades, Impulse Amplifier+Explosive Light / Demolitionist+Explosive Light / Demolitionist + Wellspring]. See Weapon Analysis: Typhon GL5 for explanation
 // volatile launch, spike grenades = 1478423395,3301904089
+dimwishlist:item=3568377122&perks=1478423395,3301904089,951095735,3194351027
 dimwishlist:item=3568377122&perks=951095735,3194351027
 dimwishlist:item=3568377122&perks=3523296417,3194351027
 dimwishlist:item=3568377122&perks=3523296417,3592538738
