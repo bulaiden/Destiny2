@@ -39,6 +39,7 @@ dimwishlist:item=-2513965917&perks=
 
 // notes: PvE god roll = [ARROWHEAD BRAKE, Ricochet Rounds/High Caliber Rounds, SUBSISTENCE, HEADSTONE]. Krait only has 56 recoil direction. Ricochet rounds gives nice +10 stability. High-Caliber could be good for flinching enemies. Every other option on 3rd & 4th row sucks
 dimwishlist:item=2852052802&perks=839105230,1885400500,1820235745,124408337
+dimwishlist:item=2852052802&perks=839105230,1561002382,1820235745,124408337 // does this break the wishlist?
 dimwishlist:item=2852052802&perks=839105230,1820235745,124408337
 dimwishlist:item=2852052802&perks=1820235745,124408337
 dimwishlist:item=-2852052802&perks=
