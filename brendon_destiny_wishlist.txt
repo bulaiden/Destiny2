@@ -38,9 +38,7 @@ dimwishlist:item=-2513965917&perks=
 // Krait
 
 //notes: PvE god roll = [ARROWHEAD BRAKE, Ricochet Rounds/High Caliber Rounds, SUBSISTENCE, HEADSTONE]. Krait only has 56 recoil direction. Ricochet rounds gives nice +10 stability. High-Caliber could be good for flinching enemies. Every other option on 3rd & 4th row sucks
-// ricochet rounds
 dimwishlist:item=2852052802&perks=839105230,1885400500,1820235745,124408337
-// high caliber
 dimwishlist:item=2852052802&perks=839105230,1561002382,1820235745,124408337
 dimwishlist:item=2852052802&perks=839105230,1820235745,124408337
 dimwishlist:item=2852052802&perks=1820235745,124408337
@@ -49,9 +47,9 @@ dimwishlist:item=-2852052802&perks=
 
 // Typhon GL5
 
-//notes: PvE god roll = [Volatile Launch, Spike Grenades, Impulse Amplifier+Explosive Light / Demolitionist+Explosive Light / Demolitionist + Wellspring]. See Weapon Analysis: Typhon GL5 for explanation
 // volatile launch, spike grenades = 1478423395,3301904089
-dimwishlist:item=3568377122&perks=1478423395,3301904089,951095735,3194351027
+
+//notes: PvE god roll = [Volatile Launch, Spike Grenades, Impulse Amplifier+Explosive Light / Demolitionist+Explosive Light / Demolitionist + Wellspring]. See Weapon Analysis: Typhon GL5 for explanation
 dimwishlist:item=3568377122&perks=951095735,3194351027
 dimwishlist:item=3568377122&perks=3523296417,3194351027
 dimwishlist:item=3568377122&perks=3523296417,3592538738
