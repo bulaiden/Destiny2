@@ -66,7 +66,7 @@ dimwishlist:item=-1687353095&perks=
 
 // Boudica-C
 
-// notes: PvE god rolls = [Pugilist, Frenzy/SwashBuckler], PvP god roll (to be used for blinting only) = [Hammer Forged, Ricochet Rounds, Slickdraw, Gutshot Straight]. See Weapon Analysis: Boudica-C
+//notes: PvE god rolls = [Pugilist, Frenzy/SwashBuckler], PvP god roll (to be used for blinting only) = [Hammer Forged, Ricochet Rounds, Slickdraw, Gutshot Straight]. See Weapon Analysis: Boudica-C
 dimwishlist:item=1916287826&perks=691659142,4104185692
 dimwishlist:item=1916287826&perks=691659142,4082225868
 dimwishlist:item=1916287826&perks=3250034553,1885400500,1821614984,1365187766
@@ -76,7 +76,6 @@ dimwishlist:item=-1916287826&perks=
 
 // Taipan-4FR
 
-// notes: [CRAFTABLE] PvE undisputable god roll = [ARROWHEAD BRAKE, ENHANCED BATTERY, TRIPLE TAP, FIRING LINE]. Arrowhead Brake because base recoil is 69. Enhanced battery because w/ base 5 mag size, an additional round per mag helps more than anything else for DPS. Triple Tap for ammo economy and DPS. Firing Line for dungeon/raid boss DPS
+//notes: [CRAFTABLE] PvE undisputable god roll = [ARROWHEAD BRAKE, ENHANCED BATTERY, TRIPLE TAP, FIRING LINE]. Arrowhead Brake because base recoil is 69. Enhanced battery because w/ base 5 mag size, an additional round per mag helps more than anything else for DPS. Triple Tap for ammo economy and DPS. Firing Line for dungeon/raid boss DPS
 dimwishlist:item=1911060537&perks=839105230,2680121939,573122728,395388285
 dimwishlist:item=-1911060537&perks=
-
