@@ -86,3 +86,12 @@ dimwishlist:item=-1911060537&perks=
 //notes: [CRAFTABLE] PvE god roll = [VOLATILE LAUNCH, ALLOY CASING, AUTO-LOADING HOLSTER, EXPLOSIVE LIGHT/Lasting Impression]. See Weapon Analysis: Palmyra-B
 dimwishlist:item=3489657138&perks=1478423395,2985827016,3528046508,2275087323
 dimwishlist:item=-3489657138&perks=
+
+
+// Staccato-46
+
+//notes: PvE god roll = [ARROWHEAD BRAKE, _, TRIPLE TAP/OUTLAW, INCANDESCENT]. See Weapon Analysis: Staccato-46
+dimwishlist:item=4019668921&perks=839105230,1087426260,3400784728,4293542123
+dimwishlist:item=4019668921&perks=839105230,1087426260,1168162263,4293542123
+dimwishlist:item=-4019668921&perks=
+
