@@ -91,7 +91,6 @@ dimwishlist:item=-3489657138&perks=
 // Staccato-46
 
 //notes: PvE god roll = [ARROWHEAD BRAKE, _, TRIPLE TAP/OUTLAW, INCANDESCENT]. See Weapon Analysis: Staccato-46
-dimwishlist:item=4019668921&perks=839105230,1087426260,3400784728,4293542123
-dimwishlist:item=4019668921&perks=839105230,1087426260,1168162263,4293542123
+dimwishlist:item=4019668921&perks=839105230,3400784728,4293542123
+dimwishlist:item=4019668921&perks=839105230,1168162263,4293542123
 dimwishlist:item=-4019668921&perks=
-
