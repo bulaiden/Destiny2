@@ -145,4 +145,10 @@ dimwishlist:item=372697604&perks=3661387068,3177308360,699525795,2846385770
 dimwishlist:item=-372697604&perks=
 
 
+// BrayTech Werewolf
 
+//notes: not a good gun (3.6 PvE, 2.8 PvP), so I'm just going w/ the most popular light gg perks (asides from Arrowhead Brake because it has base 74 recoil). BrayTech Werewolf PvE = [ARROWHEAD BRAKE, ARMOR-PIERCING ROUNDS/RICOCHET ROUNDS/HIGH-CALIBER ROUNDS, DYNAMIC SWAY REDUCTION, VORPAL WEAPON]
+dimwishlist:item=2869466318&perks=839105230,1968497646,1359896290,1546637391
+dimwishlist:item=2869466318&perks=839105230,1561002382,1359896290,1546637391
+dimwishlist:item=2869466318&perks=839105230,1885400500,1359896290,1546637391
+dimwishlist:item=-2869466318&perks=
