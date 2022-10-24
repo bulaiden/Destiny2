@@ -236,11 +236,13 @@ dimwishlist:item=-1280894514&perks=
 
 
 // Forensic Nightmare
+
 //notes: Bad gun! 3.6 PvE, 1.8 PvP. Don't use, don't craft!
 dimwishlist:item=-1526296434&perks=
 
 
 // Seventh Seraph Carbine
+
 //notes: PvE Boss-DPS = [Arrowhead Brake, Armor-Piercing Rounds/High-Caliber Rounds/Ricochet Rounds, Auto-Loading Holster, Vorpal Weapon]. PvE Multi-Purpose = [Arrowhead Brake, Armor-Piercing Rounds/High-Caliber Rounds/Ricochet Rounds, Fourth Time's The Charm, Vorpal Weapon/Rampage]
 dimwishlist:item=1561006927&perks=839105230,1968497646,3300816228,1546637391
 dimwishlist:item=1561006927&perks=839105230,1561002382,3300816228,1546637391
@@ -254,6 +256,7 @@ dimwishlist:item=1561006927&perks=839105230,1885400500,1354429876,3425386926
 dimwishlist:item=-1561006927&perks=
 
 // Seventh Seraph Officer Revolver
+
 //notes: Bad Gun! Not meta after Warmind Cell nerf. Just going to use most popular light gg perks here: [Tactical Mag/Accurized Rounds, Threat Detector/Fourth Time's the Charm, Timed Payload]
 dimwishlist:item=3037520408&perks=106909392,4071163871,1954620775
 dimwishlist:item=3037520408&perks=106909392,1354429876,1954620775
@@ -263,7 +266,24 @@ dimwishlist:item=-3037520408&perks=
 
 
 // Horror Story
+
 //notes: pretty bad gun (3.2 PvE, 2.8 PvP). But one of 2 kinetic auto rifles that can roll w/ Demolitionist. PvE god roll = [Subsistence/Outlaw, DEMOLITIONIST]
 dimwishlist:item=3829285960&perks=1820235745,3523296417
 dimwishlist:item=3829285960&perks=1168162263,3523296417
 dimwishlist:item=-3829285960&perks=
+
+
+// Horror's Least
+
+//notes: PvP gun. PvP god roll = [Arrowhead Brake, _, Perpetual Motion/Zen Moment, Kill Clip]. Wildcard for 2nd row because range/reload speed/stability are all fine
+dimwishlist:item=216983039&perks=839105230,1428297954,1015611457
+dimwishlist:item=216983039&perks=839105230,2387244414,1015611457
+dimwishlist:item=-216983039&perks=
+
+
+// Horror's Least (Adept)
+
+//notes: PvP gun. PvP god roll = [Arrowhead Brake, _, Perpetual Motion/Zen Moment, Kill Clip]. Wildcard for 2nd row because range/reload speed/stability are all fine
+dimwishlist:item=1924276978&perks=839105230,1428297954,1015611457
+dimwishlist:item=1924276978&perks=839105230,2387244414,1015611457
+dimwishlist:item=-1924276978&perks=
