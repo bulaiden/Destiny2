@@ -252,3 +252,11 @@ dimwishlist:item=1561006927&perks=839105230,1561002382,1354429876,3425386926
 dimwishlist:item=1561006927&perks=839105230,1885400500,1354429876,1546637391
 dimwishlist:item=1561006927&perks=839105230,1885400500,1354429876,3425386926
 dimwishlist:item=-1561006927&perks=
+
+// Seventh Seraph Officer Revolver
+//notes: Bad Gun! Not meta after Warmind Cell nerf. Just going to use most popular light gg perks here: [Tactical Mag/Accurized Rounds, Threat Detector/Fourth Time's the Charm, Timed Payload]
+dimwishlist:item=3037520408&perks=106909392,4071163871,1954620775
+dimwishlist:item=3037520408&perks=106909392,1354429876,1954620775
+dimwishlist:item=3037520408&perks=3142289711,4071163871,1954620775
+dimwishlist:item=3037520408&perks=3142289711,1354429876,1954620775
+dimwishlist:item=-3037520408&perks=
