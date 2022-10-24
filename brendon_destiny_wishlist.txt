@@ -233,3 +233,8 @@ dimwishlist:item=1280894514&perks=1840239774,957782887,588594999
 dimwishlist:item=1280894514&perks=839105230,957782887,47981717
 dimwishlist:item=1280894514&perks=839105230,957782887,588594999
 dimwishlist:item=-1280894514&perks=
+
+
+// Forensic Nightmare
+//notes: Bad gun! 3.6 PvE, 1.8 PvP. Don't use, don't craft!
+dimwishlist:item=-1526296434&perks=
