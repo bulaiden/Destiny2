@@ -260,3 +260,10 @@ dimwishlist:item=3037520408&perks=106909392,1354429876,1954620775
 dimwishlist:item=3037520408&perks=3142289711,4071163871,1954620775
 dimwishlist:item=3037520408&perks=3142289711,1354429876,1954620775
 dimwishlist:item=-3037520408&perks=
+
+
+// Horror Story
+//notes: pretty bad gun (3.2 PvE, 2.8 PvP). But one of 2 kinetic auto rifles that can roll w/ Demolitionist. PvE god roll = [Subsistence/Outlaw, DEMOLITIONIST]
+dimwishlist:item=3829285960&perks=1820235745,3523296417
+dimwishlist:item=3829285960&perks=1168162263,3523296417
+dimwishlist:item=-3829285960&perks=
