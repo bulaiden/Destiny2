@@ -185,7 +185,7 @@ dimwishlist:item=-2671639706&perks=
 
 // Jurassic Green (Season 18)
 
-//notes: Gun is shit for PvP (3.3) and only O.K for PvP (3.6). PvE God Roll = [ARROWHEAD BRAKE, Ricochet Rounds/High-Caliber Rounds/Armor-Piercing Rounds, SUBSISTENCE, INCANDESCENT]. Arrowhead Brake is essential to mitigate that base 50 recoil
+//notes: [BxR is just better] Gun is shit for PvP (3.3) and only O.K for PvP (3.6). PvE God Roll = [ARROWHEAD BRAKE, Ricochet Rounds/High-Caliber Rounds/Armor-Piercing Rounds, SUBSISTENCE, INCANDESCENT]. Arrowhead Brake is essential to mitigate that base 50 recoil
 dimwishlist:item=2603335652&perks=839105230,1820235745,4293542123
 dimwishlist:item=-2603335652&perks=
 
