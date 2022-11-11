@@ -28,10 +28,8 @@ dimwishlist:item=-614426548&perks=
 
 // Lunulata-4b
 
-//notes: PvE god roll = [ELASTIC/Polymer/Flexible String, Fiberglass Arrow Shaft, RANGEFINDER, HEADSTONE]. Rangefinder sucks now but every other 3rd perk sucks more
+//notes: PvE god roll = [ELASTIC/Polymer/Flexible String, Fiberglass Arrow Shaft, RANGEFINDER, HEADSTONE]. Rangefinder sucks now but every other 3rd perk sucks more. UPD: I got the PERFECT god roll. So I will mark everything else as trash.
 dimwishlist:item=2513965917&perks=2801223209,3429800428,2846385770,124408337
-dimwishlist:item=2513965917&perks=2801223209,2846385770,124408337
-dimwishlist:item=2513965917&perks=2846385770,124408337
 dimwishlist:item=-2513965917&perks=
 
 
