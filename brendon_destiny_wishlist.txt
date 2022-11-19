@@ -395,3 +395,14 @@ dimwishlist:item=2891672170&perks=1300023272,791862061,1631667848,2679249093
 dimwishlist:item=2891672170&perks=1631667848,2679249093
 dimwishlist:item=-2891672170&perks=
 
+
+// Thermal Erosion PvE / PvP
+//notes: Base Recoil 50, so Arrowhead Brake is quite important. PvE god roll = [Arrowhead Brake, ZEN MOMENT/KILLING WIND, DRAGONFLY]. PvP god roll = [Arrowhead Brake, ZEN MOMENT, TAP THE TRIGGER]
+dimwishlist:item=1766088024&perks=839105230,2387244414,2848615171
+dimwishlist:item=1766088024&perks=839105230,2450788523,2848615171
+dimwishlist:item=1766088024&perks=2387244414,2848615171
+dimwishlist:item=1766088024&perks=2450788523,2848615171
+dimwishlist:item=1766088024&perks=839105230,2387244414,1890422124
+dimwishlist:item=1766088024&perks=2387244414,1890422124
+dimwishlist:item=-1766088024&perks=
+
