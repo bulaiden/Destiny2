@@ -359,3 +359,12 @@ dimwishlist:item=1645386487&perks=3300816228,1771339417
 dimwishlist:item=1645386487&perks=2866798147,957782887
 dimwishlist:item=-1645386487&perks=
 
+
+// Biting Winds - Biting Winds PvE / PvP
+//notes: PvE god roll = [Elastic String, Fiberglass Arrow Shaft, RAPID HIT, EXPLOSIVE HEAD]. PvP god roll (hip-fire bodyshot -> punch -> 1-shot headshot) = [Elastic String, Fiberglass Arrow Shaft, MOVING TARGET, SWASHBUCKLER]
+dimwishlist:item=1621657423&perks=2801223209,3429800428,247725512,3365897133
+dimwishlist:item=1621657423&perks=247725512,3365897133
+dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,4082225868
+dimwishlist:item=1621657423&perks=588594999,4082225868
+dimwishlist:item=-1621657423&perks=
+
