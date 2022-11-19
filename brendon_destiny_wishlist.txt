@@ -351,3 +351,11 @@ dimwishlist:item=1387987271&perks=1840239774,1087426260,3400784728,1771339417
 dimwishlist:item=1387987271&perks=1840239774,2420895100,3400784728,1771339417
 dimwishlist:item=1387987271&perks=3400784728,1771339417
 dimwishlist:item=-1387987271&perks=
+
+
+// Tranquility PvE / PvP
+//notes: Got good perks since Season 15. Undisputed PvE god roll = [AUTO-LOADING HOLSTER, FIRING LINE]. Undisputed PvP god roll = [NO DISTRACTIONS, SNAPSHOT SIGHTS]
+dimwishlist:item=1645386487&perks=3300816228,1771339417
+dimwishlist:item=1645386487&perks=2866798147,957782887
+dimwishlist:item=-1645386487&perks=
+
