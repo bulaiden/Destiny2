@@ -387,3 +387,11 @@ dimwishlist:item=3512349612&perks=2450788523,2846385770
 dimwishlist:item=3512349612&perks=2779035018,2846385770
 dimwishlist:item=-3512349612&perks=
 
+
+// Xenoclast IV PvE
+//notes: Light.gg reviewers agree this is NOT a PvP gun (3.6). PvE god roll = [Full Choke/Barrel Shroud, Assault Mag, GRAVE ROBBER, ONE-TWO PUNCH]
+dimwishlist:item=2891672170&perks=1047830412,791862061,1631667848,2679249093
+dimwishlist:item=2891672170&perks=1300023272,791862061,1631667848,2679249093
+dimwishlist:item=2891672170&perks=1631667848,2679249093
+dimwishlist:item=-2891672170&perks=
+
