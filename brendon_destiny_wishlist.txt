@@ -486,3 +486,20 @@ dimwishlist:item=2708806099&perks=839105230,1885400500,1906147653,2675184851
 dimwishlist:item=2708806099&perks=839105230,1885400500,2014892510,2923251173
 dimwishlist:item=-2708806099&perks=
 
+
+// Allied Demand PvP
+//notes: Not a PvE gun (3.3). undisputed PvP (4.3) god roll = [Accurized Rounds/Steady Rounds, RANGEFINDER, IRON REACH/Eye of the Storm] {Range MW}. (Eye of the Storm being a personal pick while I figure out if I can stomach Iron Reach's -30 stability)
+dimwishlist:item=1532276803&perks=3142289711,2846385770,591790007
+dimwishlist:item=1532276803&perks=3142289711,2846385770,699525795
+dimwishlist:item=1532276803&perks=3177308360,2846385770,591790007
+dimwishlist:item=1532276803&perks=3177308360,2846385770,699525795
+dimwishlist:item=1532276803&perks=1885400500,2846385770,591790007
+dimwishlist:item=1532276803&perks=1885400500,2846385770,699525795
+dimwishlist:item=1532276803&perks=2846385770,591790007
+dimwishlist:item=1532276803&perks=2846385770,699525795
+dimwishlist:item=1532276803&perks=2846385770,591790007
+dimwishlist:item=1532276803&perks=2846385770,699525795
+dimwishlist:item=1532276803&perks=2846385770,591790007
+dimwishlist:item=1532276803&perks=2846385770,699525795
+dimwishlist:item=-1532276803&perks=
+
