@@ -561,3 +561,12 @@ dimwishlist:item=1197486957&perks=4267945040,3523296417
 dimwishlist:item=1197486957&perks=4267945040,3592538738
 dimwishlist:item=-1197486957&perks=
 
+
+// Fortissimo-11 PvE
+//notes: No longer viable in PvP after 1-shot Adagio cheese got patched. PvE (4.4) God Roll = [Arrowhead Brake(55), Assault Mag, DEMOLITIONIST/FOURTH TIME'S THE CHARM, VORPAL WEAPON]
+dimwishlist:item=2821430069&perks=839105230,791862061,3523296417,1546637391
+dimwishlist:item=2821430069&perks=839105230,791862061,1354429876,1546637391
+dimwishlist:item=2821430069&perks=3523296417,1546637391
+dimwishlist:item=2821430069&perks=1354429876,1546637391
+dimwishlist:item=-2821430069&perks=
+
