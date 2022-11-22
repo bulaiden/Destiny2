@@ -33,20 +33,19 @@ dimwishlist:item=2513965917&perks=2801223209,3429800428,2846385770,124408337
 dimwishlist:item=-2513965917&perks=
 
 
-// Krait
-
-//notes: PvE god roll = [ARROWHEAD BRAKE, Ricochet Rounds/High Caliber Rounds, SUBSISTENCE, HEADSTONE]. Krait only has 56 recoil direction. Ricochet rounds gives nice +10 stability. High-Caliber could be good for flinching enemies. Every other option on 3rd & 4th row sucks
-dimwishlist:item=2852052802&perks=839105230,1885400500,1820235745,124408337
-dimwishlist:item=2852052802&perks=839105230,1561002382,1820235745,124408337
+// Krait PvE
+//notes: Not a PvP (3.4) gun. PvE (4.7) God Roll = [Arrowhead Brake(56), SUBSISTENCE/AUTO-LOADING HOLSTER/Overflow, HEADSTONE/VORPAL WEAPON]
 dimwishlist:item=2852052802&perks=839105230,1820235745,124408337
-dimwishlist:item=2852052802&perks=1820235745,124408337
+dimwishlist:item=2852052802&perks=839105230,1820235745,1546637391
+dimwishlist:item=2852052802&perks=839105230,3300816228,124408337
+dimwishlist:item=2852052802&perks=839105230,3300816228,1546637391
+dimwishlist:item=2852052802&perks=839105230,3643424744,124408337
+dimwishlist:item=2852052802&perks=839105230,3643424744,1546637391
 dimwishlist:item=-2852052802&perks=
 
 
 // Typhon GL5
-
 // volatile launch, spike grenades = 1478423395,3301904089
-
 //notes: PvE god roll = [Volatile Launch, Spike Grenades, Impulse Amplifier+Explosive Light / Demolitionist+Explosive Light / Demolitionist + Wellspring]. See Weapon Analysis: Typhon GL5 for explanation
 dimwishlist:item=3568377122&perks=951095735,3194351027
 dimwishlist:item=3568377122&perks=3523296417,3194351027
