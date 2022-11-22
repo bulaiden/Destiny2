@@ -503,3 +503,10 @@ dimwishlist:item=1532276803&perks=2846385770,591790007
 dimwishlist:item=1532276803&perks=2846385770,699525795
 dimwishlist:item=-1532276803&perks=
 
+
+// The Wizened Rebuke PvP
+//notes: Shit-Tier gun (PvE 1.9, PvP 3.4) because its a High-Impact Frame FR. PvP Meme-Laser god roll = [Arrowhead Brake(72), Accelerated Coils, UNDER PRESSURE, IRON GRIP] {Stability MW}
+dimwishlist:item=1999697514&perks=839105230,689005463,1645158859,11551321
+dimwishlist:item=1999697514&perks=1645158859,11551321
+dimwishlist:item=-1999697514&perks=
+
