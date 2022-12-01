@@ -624,3 +624,12 @@ dimwishlist:item=2742838701&perks=957782887,2846385770
 dimwishlist:item=2742838701&perks=47981717,2846385770
 dimwishlist:item=-2742838701&perks=
 
+
+// Hailing Confusion PvE
+//notes: Shit gun. Awful 4th column perks which can roll on 3rd column on newer guns. PvE pulse rifle rank = [29th place, .02% usage]. PvP pulse rifle rank = [32nd place, .04% usage]. PvE community god roll = [Arrowhead Brake, OUTLAW, WELLSPRING/DEMOLITIONIST]
+dimwishlist:item=2870169846&perks=839105230,1168162263,3592538738
+dimwishlist:item=2870169846&perks=839105230,1168162263,3523296417
+dimwishlist:item=2870169846&perks=1168162263,3592538738
+dimwishlist:item=2870169846&perks=1168162263,3523296417
+dimwishlist:item=-2870169846&perks=
+
