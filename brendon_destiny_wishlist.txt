@@ -759,3 +759,14 @@ dimwishlist:item=4225322581&perks=1300023272,106909392,3528046508,788178929
 dimwishlist:item=4225322581&perks=1482024992,3142289711,2014892510,711234314
 dimwishlist:item=-4225322581&perks=
 
+
+// Empty Vessel PvE
+//notes: Not PvP meta (18th place, .05% usage). Not PvE meta either (16th place, .1% usage). PvE god roll = [Quick Launch (+15 Handling), Blinding Grenades, AUTO-LOADING HOLSTER, VORPAL WEAPON/DISRUPTION BREAK/DEMOLITIONIST] {Handling/Reload MW}
+dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,1546637391
+dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,1683379515
+dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,3523296417
+dimwishlist:item=4255586669&perks=3300816228,1546637391
+dimwishlist:item=4255586669&perks=3300816228,1683379515
+dimwishlist:item=4255586669&perks=3300816228,3523296417
+dimwishlist:item=-4255586669&perks=
+
