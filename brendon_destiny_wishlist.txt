@@ -1063,3 +1063,8 @@ dimwishlist:item=3257091167&perks=3666208348,269888150,1618208178,3007133316
 dimwishlist:item=3257091167&perks=3666208348,3625355092,1618208178,3418165135
 dimwishlist:item=-3257091167&perks=
 
+
+// Ancient Gospel Trashmark
+//note: PvE useless (31st ranked HC, .02% usage). PvP useless (.005% usage). Season 8 weapon. Power-crept into irrelevance. Wait for perk pool update (when GoS raid weapons become craftable).
+dimwishlist:item=-48643186&perks=
+
