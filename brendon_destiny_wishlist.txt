@@ -1068,3 +1068,10 @@ dimwishlist:item=-3257091167&perks=
 //note: PvE useless (31st ranked HC, .02% usage). PvP useless (.005% usage). Season 8 weapon. Power-crept into irrelevance. Wait for perk pool update (when GoS raid weapons become craftable).
 dimwishlist:item=-48643186&perks=
 
+
+// Tarnished Mettle PvE
+//notes: [CRAFTABLE] PvE meta (3rd ranked SR, .4% usage). PvP useless (13th ranked SR, .04% usage). PvE undisputed god roll = [ARROWHEAD BRAKE(52), FLARED MAGWELL, DEMOLITIONIST/RAPID HIT, VOLTSHOT] {RELOAD SPEED MW}
+dimwishlist:item=2218569744&perks=839105230,3230963543,1906147653,1720528630
+dimwishlist:item=2218569744&perks=839105230,3230963543,2938480696,1720528630
+dimwishlist:item=-2218569744&perks=
+
