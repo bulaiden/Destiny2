@@ -873,3 +873,10 @@ dimwishlist:item=2812100428&perks=2450788523,3047969693,2839173408
 dimwishlist:item=2812100428&perks=2450788523,1015611457,2839173408
 dimwishlist:item=-2812100428&perks=
 
+
+// Farewell PvP
+//notes: PvE useless (33rd ranked sidearm, .002% usage). PvP useless (26th ranked sidearm, .02% usage). PvP god roll = [FLUTED BARREL, ACCURIZED ROUNDS, TUNNEL VISION, MULTIKILL CLIP] {Handling MW}
+dimwishlist:item=541188001&perks=1840239774,3142289711,2946784966,2458213969
+dimwishlist:item=541188001&perks=2946784966,2458213969
+dimwishlist:item=-541188001&perks=
+
