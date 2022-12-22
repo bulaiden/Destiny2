@@ -1305,3 +1305,14 @@ dimwishlist:item=-2591241074&perks=
 //notes: [TRASHMARK] PvP trash (.004% usage). PvE trash (31st ranked SR, .01% usage)
 dimwishlist:item=-2164448701&perks=
 
+
+// Brigand's Law PvE
+//notes: [CRAFTABLE] PvE meta (1st ranked sidearm, .5% usage). PvP trash (15th ranked sidearm, .15% usage). PvE undisputed god roll = [Extended Barrel, Accurized Rounds/Tactical Mag/Flared Magwell, Feeding Frenzy/Threat Detector, Voltshot] {Range/Reload MW}
+dimwishlist:item=1298815317&perks=1467527085,3142289711,1171147302,1720528630
+dimwishlist:item=1298815317&perks=1467527085,3142289711,494941759,1720528630
+dimwishlist:item=1298815317&perks=1467527085,106909392,1171147302,1720528630
+dimwishlist:item=1298815317&perks=1467527085,106909392,494941759,1720528630
+dimwishlist:item=1298815317&perks=1467527085,3230963543,1171147302,1720528630
+dimwishlist:item=1298815317&perks=1467527085,3230963543,494941759,1720528630
+dimwishlist:item=-1298815317&perks=
+
