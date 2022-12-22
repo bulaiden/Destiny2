@@ -1347,3 +1347,12 @@ dimwishlist:item=-2588048270&perks=
 //notes: [TRASHMARK] PvE trash (.009% usage). PvP trash (.004% usage)
 dimwishlist:item=-4037745684&perks=
 
+
+// Doom of Chelchis PvE
+//notes: [CRAFTABLE] PvE meta (1st ranked scout, .8% usage). PvP meh (5th ranked scout, .1% usage). PvE god roll = [Arrowhead Brake(76), Steady Rounds, Firefly/Explosive Payload, Dragonfly/Frenzy] {Handling MW}
+dimwishlist:item=1937552980&perks=839105230,3177308360,1183436451,169755979
+dimwishlist:item=1937552980&perks=839105230,3177308360,1183436451,3007133316
+dimwishlist:item=1937552980&perks=839105230,3177308360,64866129,169755979
+dimwishlist:item=1937552980&perks=839105230,3177308360,64866129,3007133316
+dimwishlist:item=-1937552980&perks=
+
