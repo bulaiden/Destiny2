@@ -1230,3 +1230,10 @@ dimwishlist:item=2306182339&perks=776531651,1546637391
 dimwishlist:item=2306182339&perks=776531651,4104185692
 dimwishlist:item=-2306182339&perks=
 
+
+// Aurvandil FR6 PvE
+//notes: PvE ok (great perks, but 1s charge time). PvP trash (1s charge time). PvE undisputed god roll = [Arrowhead Brake(67), Accelerated Coils, Reconstruction, Chill Clip] {Charge Time MW}
+dimwishlist:item=963710795&perks=839105230,689005463,1523832109,2978966579,2839173408
+dimwishlist:item=963710795&perks=1523832109,2978966579,2839173408
+dimwishlist:item=-963710795&perks=
+
