@@ -1316,3 +1316,8 @@ dimwishlist:item=1298815317&perks=1467527085,3230963543,1171147302,1720528630
 dimwishlist:item=1298815317&perks=1467527085,3230963543,494941759,1720528630
 dimwishlist:item=-1298815317&perks=
 
+
+// Arsenic Bite-4b trashmark
+//notes: [TRASHMARK] PvP trash (18th ranked bow, .004% usage). PvE trash (13th ranked bow, .03% usage). Why would I use this when I could use Trinity Ghoul?
+dimwishlist:item=-720351795&perks=
+
