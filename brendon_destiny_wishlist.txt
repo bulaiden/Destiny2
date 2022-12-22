@@ -1281,3 +1281,8 @@ dimwishlist:item=2221264583&perks=839105230,106909392,1906147653,1183436451
 dimwishlist:item=2221264583&perks=839105230,3230963543,1906147653,1183436451
 dimwishlist:item=-2221264583&perks=
 
+
+// New Purpose trashmark
+//notes: Trashmark! PvE trash (15th ranked PR, .06% usage). PvP trash (15th ranked PR, .14% usage. Obsoleted by The Messenger)
+dimwishlist:item=-1780464822&perks=
+
