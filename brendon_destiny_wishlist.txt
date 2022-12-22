@@ -1172,3 +1172,11 @@ dimwishlist:item=4070357005&perks=1523832109,3511092054
 dimwishlist:item=4070357005&perks=1523832109,4104185692
 dimwishlist:item=-4070357005&perks=
 
+
+// Seventh Seraph Officer Revolver (Season 19) PvE
+//notes: PvE good (great perks for Champions). PvP trash (31st ranked HC, .03% usage). PvE god roll = [Arrowhead Brake(84)/Fluted Barrel, Seraph Rounds, Reconstruction, Vorpal Weapon] {Handling MW}
+dimwishlist:item=1555959830&perks=839105230,1140096971,1523832109,1546637391
+dimwishlist:item=1555959830&perks=1840239774,1140096971,1523832109,1546637391
+dimwishlist:item=1555959830&perks=1523832109,1546637391
+dimwishlist:item=-1555959830&perks=
+
