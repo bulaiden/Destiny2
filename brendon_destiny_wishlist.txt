@@ -1356,3 +1356,8 @@ dimwishlist:item=1937552980&perks=839105230,3177308360,64866129,169755979
 dimwishlist:item=1937552980&perks=839105230,3177308360,64866129,3007133316
 dimwishlist:item=-1937552980&perks=
 
+
+// The Vision trashmark
+//notes: [TRASHMARK] PvE trash (.002% usage). PvP trash (.018% usage)
+dimwishlist:item=-2414141462&perks=
+
