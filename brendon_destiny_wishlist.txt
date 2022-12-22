@@ -1332,3 +1332,8 @@ dimwishlist:item=4164201232&perks=706527188,957782887
 dimwishlist:item=4164201232&perks=2866798147,957782887
 dimwishlist:item=-4164201232&perks=
 
+
+// Shepherd's Watch trashmark
+//notes: [TRASHMARK] PvE trash (.007% usage). PvP trash (20th ranked SR, .06% usage)
+dimwishlist:item=-3743729616&perks=
+
