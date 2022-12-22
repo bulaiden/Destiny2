@@ -1189,3 +1189,15 @@ dimwishlist:item=8293111&perks=671806388,3038247973
 dimwishlist:item=8293111&perks=247725512,3038247973
 dimwishlist:item=-8293111&perks=
 
+
+// Liminal Vigil PvE & PvP
+//notes: PvE bad (sidearm. bad damage perks). PvP good (4th ranked sidearm, .65% usage). PvE god roll = [Headstone/Tap the Trigger/Threat Detector/Pugilist, Desperado]. PvP god roll = [Ricochet Rounds/High-Caliber Rounds, Tap the Trigger, Kill Clip]
+dimwishlist:item=3138208275&perks=124408337,3047969693
+dimwishlist:item=3138208275&perks=1890422124,3047969693
+dimwishlist:item=3138208275&perks=4071163871,3047969693
+dimwishlist:item=3138208275&perks=691659142,3047969693
+dimwishlist:item=3138208275&perks=1885400500,1890422124,1015611457
+dimwishlist:item=3138208275&perks=1561002382,1890422124,1015611457
+dimwishlist:item=3138208275&perks=1890422124,1015611457
+dimwishlist:item=-3138208275&perks=
+
