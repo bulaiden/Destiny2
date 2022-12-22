@@ -1291,3 +1291,12 @@ dimwishlist:item=-1780464822&perks=
 //notes: [TRASHMARK] PvE trash (25th ranked PR, .02% usage, bad damage perks, no Voltshot). PvP trash (23rd ranked PR, .06% usage)
 dimwishlist:item=-4156253727&perks=
 
+
+// Strident Whistle PvE
+//notes: PvE ok (9th ranked bow, .07% usage. However, it is the best solar bow). PvP trash (6th ranked bow, .03% usage). PvE undisputed god roll = [Elastic String, Compact Arrow Shaft, Archer's Tempo, Incandescent/Successful Warm-Up] {Draw Time MW}
+dimwishlist:item=2591241074&perks=2801223209,16392701,201365942,4293542123
+dimwishlist:item=2591241074&perks=2801223209,16392701,201365942,2652708987
+dimwishlist:item=2591241074&perks=201365942,4293542123
+dimwishlist:item=2591241074&perks=201365942,2652708987
+dimwishlist:item=-2591241074&perks=
+
