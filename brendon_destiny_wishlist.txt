@@ -1161,3 +1161,14 @@ dimwishlist:item=577528837&perks=839105230,3230963543,2946784966,1015611457
 dimwishlist:item=577528837&perks=2946784966,1015611457
 dimwishlist:item=-577528837&perks=
 
+
+// Seventh Seraph Carbine (Season 19) PvE
+//notes: PvE good (great perks for Champions). PvP bad (7th ranked AR, .14% usage). PvE god roll = [Arrowhead Brake(74), Seraph Rounds, Reconstruction, Target Lock/Elemental Capacitor(Arc)/Frenzy] {Handling MW}
+dimwishlist:item=4070357005&perks=839105230,1140096971,1523832109,365154968
+dimwishlist:item=4070357005&perks=839105230,1140096971,1523832109,3511092054
+dimwishlist:item=4070357005&perks=839105230,1140096971,1523832109,4104185692
+dimwishlist:item=4070357005&perks=1523832109,365154968
+dimwishlist:item=4070357005&perks=1523832109,3511092054
+dimwishlist:item=4070357005&perks=1523832109,4104185692
+dimwishlist:item=-4070357005&perks=
+
