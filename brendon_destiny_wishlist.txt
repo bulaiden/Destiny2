@@ -1372,3 +1372,16 @@ dimwishlist:item=-1094005544&perks=
 //notes: [TRASHMARK] PvP trash (.02% usage). PvE trash (15th ranked SMG, .1% usage, obsoleted by Prolonged Engagement)
 dimwishlist:item=-1526296434&perks=
 
+
+// Thoughtless PvE
+//notes: [CRAFTABLE] PvP trash (18th ranked sniper, .06% usage). PvE ok (5th ranked sniper, .17% usage). PvE undisputed god roll = [Arrowhead Brake(79)/Fluted Barrel, Tactical Mag/Appended Mag, Overflow, Firing Line/Focused Fury] {Handling MW}
+dimwishlist:item=4067556514&perks=839105230,106909392,2682205016,395388285
+dimwishlist:item=4067556514&perks=839105230,106909392,2682205016,2402480669
+dimwishlist:item=4067556514&perks=839105230,1087426260,2682205016,395388285
+dimwishlist:item=4067556514&perks=839105230,1087426260,2682205016,2402480669
+dimwishlist:item=4067556514&perks=1840239774,106909392,2682205016,395388285
+dimwishlist:item=4067556514&perks=1840239774,106909392,2682205016,2402480669
+dimwishlist:item=4067556514&perks=1840239774,1087426260,2682205016,395388285
+dimwishlist:item=4067556514&perks=1840239774,1087426260,2682205016,2402480669
+dimwishlist:item=-4067556514&perks=
+
