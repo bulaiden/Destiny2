@@ -1180,3 +1180,12 @@ dimwishlist:item=1555959830&perks=1840239774,1140096971,1523832109,1546637391
 dimwishlist:item=1555959830&perks=1523832109,1546637391
 dimwishlist:item=-1555959830&perks=
 
+
+// Long Arm PvP
+//notes: PvE bad (hipfire sucks w/o DMT's catalyst. bad damage perks). PvE meh (hipfire sucks. not a scout rifle meta). PvP god roll = [Arrowhead Brake(72), _, Compulsive Reloader/Rapid Hit, Explosive Payload]
+dimwishlist:item=8293111&perks=839105230,671806388,3038247973
+dimwishlist:item=8293111&perks=839105230,247725512,3038247973
+dimwishlist:item=8293111&perks=671806388,3038247973
+dimwishlist:item=8293111&perks=247725512,3038247973
+dimwishlist:item=-8293111&perks=
+
