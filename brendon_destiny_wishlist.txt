@@ -1300,3 +1300,8 @@ dimwishlist:item=2591241074&perks=201365942,4293542123
 dimwishlist:item=2591241074&perks=201365942,2652708987
 dimwishlist:item=-2591241074&perks=
 
+
+// Apostate trashmark
+//notes: [TRASHMARK] PvP trash (.004% usage). PvE trash (31st ranked SR, .01% usage)
+dimwishlist:item=-2164448701&perks=
+
