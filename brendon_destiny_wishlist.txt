@@ -1283,6 +1283,11 @@ dimwishlist:item=-2221264583&perks=
 
 
 // New Purpose trashmark
-//notes: Trashmark! PvE trash (15th ranked PR, .06% usage). PvP trash (15th ranked PR, .14% usage. Obsoleted by The Messenger)
+//notes: [TRASHMARK] PvE trash (15th ranked PR, .06% usage). PvP trash (15th ranked PR, .14% usage. Obsoleted by The Messenger)
 dimwishlist:item=-1780464822&perks=
+
+
+// The Third Axiom trashmark
+//notes: [TRASHMARK] PvE trash (25th ranked PR, .02% usage, bad damage perks, no Voltshot). PvP trash (23rd ranked PR, .06% usage)
+dimwishlist:item=-4156253727&perks=
 
