@@ -1342,3 +1342,8 @@ dimwishlist:item=-3743729616&perks=
 //notes: [TRASHMARK] PvE trash (.002% usage). PvP trash (.008% usage)
 dimwishlist:item=-2588048270&perks=
 
+
+// Bonechiller trashmark
+//notes: [TRASHMARK] PvE trash (.009% usage). PvP trash (.004% usage)
+dimwishlist:item=-4037745684&perks=
+
