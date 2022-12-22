@@ -1361,3 +1361,9 @@ dimwishlist:item=-1937552980&perks=
 //notes: [TRASHMARK] PvE trash (.002% usage). PvP trash (.018% usage)
 dimwishlist:item=-2414141462&perks=
 
+
+// Mindbender's Ambition (+Adept) trashmark
+//notes: [TRASHMARK] PvE trash (15th ranked shotgun, .06% usage. Aggressive frames are bad for one-two punch). PvP trash (13th ranked shotgun, 4th ranked aggressive frame, .47% usage)
+dimwishlist:item=-912150785&perks=
+dimwishlist:item=-1094005544&perks=
+
