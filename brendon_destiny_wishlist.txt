@@ -1321,3 +1321,14 @@ dimwishlist:item=-1298815317&perks=
 //notes: [TRASHMARK] PvP trash (18th ranked bow, .004% usage). PvE trash (13th ranked bow, .03% usage). Why would I use this when I could use Trinity Ghoul?
 dimwishlist:item=-720351795&perks=
 
+
+// 1000 Yard Stare PvP
+//notes: PvE trash (28th ranked SR, .01% usage). PvP ok (10th ranked SR, .29% usage). PvP undisputed god roll = [Fluted Barrel/Arrowhead Brake(76), Steady Rounds, Quickdraw/No Distractions, Snapshot Sights]
+dimwishlist:item=4164201232&perks=1840239774,3177308360,706527188,957782887
+dimwishlist:item=4164201232&perks=1840239774,3177308360,2866798147,957782887
+dimwishlist:item=4164201232&perks=839105230,3177308360,706527188,957782887
+dimwishlist:item=4164201232&perks=839105230,3177308360,2866798147,957782887
+dimwishlist:item=4164201232&perks=706527188,957782887
+dimwishlist:item=4164201232&perks=2866798147,957782887
+dimwishlist:item=-4164201232&perks=
+
