@@ -1427,3 +1427,8 @@ dimwishlist:item=-1248372789&perks=
 //notes: [TRASHMARK] PvE trash (.008% usage). PvP trash (.003% usage). Season 8 weapon
 dimwishlist:item=-4277547616&perks=
 
+
+// The Keening trashmark
+//notes: [TRASHMARK] PvE trash (.01% usage). PvP trash (.07% usage). Season 13 weapon
+dimwishlist:item=-409551876&perks=
+
