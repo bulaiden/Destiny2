@@ -1399,3 +1399,8 @@ dimwishlist:item=-821154603&perks=
 //notes: [TRASHMARK] PvE trash (.001% usage). PvP trash (.006% usage)
 dimwishlist:item=-1835747805&perks=
 
+
+// Drang trashmark
+//notes: [TRASHMARK] Obsoleted by Season 17 craftable Drang (can craft this fixed roll)
+dimwishlist:item=-2362471600&perks=
+
