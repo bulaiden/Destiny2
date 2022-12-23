@@ -1379,3 +1379,18 @@ dimwishlist:item=4067556514&perks=1840239774,1087426260,2682205016,395388285
 dimwishlist:item=4067556514&perks=1840239774,1087426260,2682205016,2402480669
 dimwishlist:item=-4067556514&perks=
 
+
+// Gnawing Hunger PvE & PvP
+//notes: PvE good (4th ranked AR, .28% usage). PvP ok (6th ranked AR, .14% usage). PvE undisputed god roll = [Arrowhead Brake(54), Accurized Rounds/Tactical Mag/Flared Magwell, Subsistence, Demolitionist/Rampage]. PvP undisputed god roll = [Arrowhead Brake(54), Accurized Rounds, Zen Moment, Kill Clip] {Range/Stability MW}
+dimwishlist:item=821154603&perks=839105230,3142289711,1820235745,3523296417
+dimwishlist:item=821154603&perks=839105230,3142289711,1820235745,3425386926
+dimwishlist:item=821154603&perks=839105230,106909392,1820235745,3523296417
+dimwishlist:item=821154603&perks=839105230,106909392,1820235745,3425386926
+dimwishlist:item=821154603&perks=839105230,3230963543,1820235745,3523296417
+dimwishlist:item=821154603&perks=839105230,3230963543,1820235745,3425386926
+dimwishlist:item=821154603&perks=1820235745,3523296417
+dimwishlist:item=821154603&perks=1820235745,3425386926
+dimwishlist:item=821154603&perks=839105230,3142289711,2387244414,1015611457
+dimwishlist:item=821154603&perks=2387244414,1015611457
+dimwishlist:item=-821154603&perks=
+
