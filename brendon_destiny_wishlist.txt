@@ -1455,3 +1455,17 @@ dimwishlist:item=613334176&perks=3525010810,2822142346,3797647183,2396489472
 dimwishlist:item=613334176&perks=3525010810,2822142346,3797647183,598607952
 dimwishlist:item=-613334176&perks=
 
+
+// Fioritura-59 PvP
+//notes: PvE trash (6th ranked sidearm, .06% usage). PvP ok (8th ranked sidearm, .23% usage). PvP Gyrfalcon Meme roll = [_, Ricochet Rounds/High-Caliber Rounds, Threat Detector/Hip-Fire Grip/Killing Wind, Repulsor Brace] {Handling/Range/Stability MW}
+dimwishlist:item=2566006935&perks=1885400500,4071163871,776531651
+dimwishlist:item=2566006935&perks=1885400500,1866048759,776531651
+dimwishlist:item=2566006935&perks=1885400500,2450788523,776531651
+dimwishlist:item=2566006935&perks=1561002382,4071163871,776531651
+dimwishlist:item=2566006935&perks=1561002382,1866048759,776531651
+dimwishlist:item=2566006935&perks=1561002382,2450788523,776531651
+dimwishlist:item=2566006935&perks=4071163871,776531651
+dimwishlist:item=2566006935&perks=1866048759,776531651
+dimwishlist:item=2566006935&perks=2450788523,776531651
+dimwishlist:item=-2566006935&perks=
+
