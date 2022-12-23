@@ -1422,3 +1422,8 @@ dimwishlist:item=1248372789&perks=839105230,3142289711,1583705720,859780267
 dimwishlist:item=1248372789&perks=839105230,3142289711,1583705720,4049631843
 dimwishlist:item=-1248372789&perks=
 
+
+// Every Waking Moment trashmark
+//notes: [TRASHMARK] PvE trash (.008% usage). PvP trash (.003% usage). Season 8 weapon
+dimwishlist:item=-4277547616&perks=
+
