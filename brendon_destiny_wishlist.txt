@@ -1446,3 +1446,12 @@ dimwishlist:item=2563012876&perks=1300023272,791862061,4071163871,47981717
 dimwishlist:item=2563012876&perks=4071163871,47981717
 dimwishlist:item=-2563012876&perks=
 
+
+// Forbearance PvE
+//notes: PvP trash (11th ranked GL, .06% usage). PvE meta (2nd ranked GL, 3.4% usage). PvE universal majority unanimous undisputed god roll = [Quick Launch, High-Velocity Rounds, Ambitious Assassin, Chain Reaction] {Reload/Velocity/Handling MW}
+dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472
+dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,598607952
+dimwishlist:item=613334176&perks=3525010810,2822142346,3797647183,2396489472
+dimwishlist:item=613334176&perks=3525010810,2822142346,3797647183,598607952
+dimwishlist:item=-613334176&perks=
+
