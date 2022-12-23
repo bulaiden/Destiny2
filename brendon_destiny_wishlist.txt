@@ -1394,3 +1394,8 @@ dimwishlist:item=821154603&perks=839105230,3142289711,2387244414,1015611457
 dimwishlist:item=821154603&perks=2387244414,1015611457
 dimwishlist:item=-821154603&perks=
 
+
+// Nature of the Beast trashmark
+//notes: [TRASHMARK] PvE trash (.001% usage). PvP trash (.006% usage)
+dimwishlist:item=-1835747805&perks=
+
