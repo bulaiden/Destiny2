@@ -1432,3 +1432,17 @@ dimwishlist:item=-4277547616&perks=
 //notes: [TRASHMARK] PvE trash (.01% usage). PvP trash (.07% usage). Season 13 weapon
 dimwishlist:item=-409551876&perks=
 
+
+// Matador 64 PvP
+//notes: PvP meta (1st ranked shotgun, 2.16% usage). PvE trash (19th ranked shotgun, .05% usage). PvP undisputed god roll = [Smallbore/Full Choke/Corkscrew Rifling/Barrel Shroud, Accurized Rounds/Assault Mag, Threat Detector, Opening Shot] {Range/Handling MW}
+dimwishlist:item=2563012876&perks=1482024992,3142289711,4071163871,47981717
+dimwishlist:item=2563012876&perks=1482024992,791862061,4071163871,47981717
+dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,47981717
+dimwishlist:item=2563012876&perks=1047830412,791862061,4071163871,47981717
+dimwishlist:item=2563012876&perks=4090651448,3142289711,4071163871,47981717
+dimwishlist:item=2563012876&perks=4090651448,791862061,4071163871,47981717
+dimwishlist:item=2563012876&perks=1300023272,3142289711,4071163871,47981717
+dimwishlist:item=2563012876&perks=1300023272,791862061,4071163871,47981717
+dimwishlist:item=2563012876&perks=4071163871,47981717
+dimwishlist:item=-2563012876&perks=
+
