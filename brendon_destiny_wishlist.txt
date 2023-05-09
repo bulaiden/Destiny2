@@ -1320,3 +1320,8 @@ dimwishlist:item=2566006935&perks=1866048759,776531651
 dimwishlist:item=2566006935&perks=2450788523,776531651
 dimwishlist:item=-2566006935&perks=
 
+
+// Empirical Evidence
+//notes:PvE trash: Buzzard w/ Kinetic Tremors exists. PvP trash: literally no good PvP perks
+dimwishlist:item=-2607304614&perks=
+
