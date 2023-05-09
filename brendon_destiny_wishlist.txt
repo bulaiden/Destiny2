@@ -49,10 +49,7 @@ dimwishlist:item=-3568377122&perks=
 
 
 // Redback-5SI
-
-//notes: PvE god roll = [Arrowhead Brake/CHAMBERED COMPENSATOR, Accurized Rounds/STEADY ROUNDS, SUBSISTENCE, RAMPAGE]. See Weapon Analysis: Redback-5SI
-dimwishlist:item=1687353095&perks=3661387068,3177308360,1820235745,3425386926
-dimwishlist:item=1687353095&perks=1820235745,3425386926
+//notes:PvP: bad PvP perks. Lightweight Frame has the lowest base range. PvE: powercrept into oblivion
 dimwishlist:item=-1687353095&perks=
 
 
