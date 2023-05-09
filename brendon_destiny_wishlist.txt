@@ -658,11 +658,8 @@ dimwishlist:item=3055790362&perks=1482024992,1885400500,4116820839,509594246
 dimwishlist:item=-3055790362&perks=
 
 
-// Piece of Mind PvE & PvP
-//notes: [CRAFTABLE] Meh for PvE (meh perk options). Meta PvP weapon. PvE god roll = [ARROWHEAD BRAKE(58), RICOCHET ROUNDS, OVERFLOW, VORPAL WEAPON] {RANGE MW}. PvP god roll = [ARROWHEAD BRAKE(58), RICOCHET ROUNDS, PERPETUAL MOTION, MOVING TARGET/ELEMENTAL CAPACITOR(55 arc handling/25 void stability)] {RANGE MW}
-dimwishlist:item=2097055732&perks=839105230,1885400500,2682205016,3418165135
-dimwishlist:item=2097055732&perks=839105230,1885400500,2014892510,2717805783
-dimwishlist:item=2097055732&perks=839105230,1885400500,2014892510,711234314
+// Piece of Mind
+//notes:[TRASHMARK] PvP: Bad 3rd column PvP perks. 3-burst pulse rifles are unacceptable. The Messenger exists. PvE: Battle Scar w/ Kinetic Tremors exists
 dimwishlist:item=-2097055732&perks=
 
 
