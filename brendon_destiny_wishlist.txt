@@ -594,17 +594,12 @@ dimwishlist:item=-1141547457&perks=
 
 
 // Dire Promise PvP
-//notes: Not a PvE gun (3.4 star, .01% usage). PvP Hand Cannon rank = [13th place, .23% usage]. PvP god roll = [Steadyhand HCS/Fastdraw HCS, Ricochet Rounds/High-Caliber Rounds, SNAPSHOT SIGHTS/OPENING SHOT, RANGEFINDER] {Stability/Range MW}
-dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770
-dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770
-dimwishlist:item=2742838701&perks=1926090095,1561002382,957782887,2846385770
-dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,2846385770
+//notes:Good ADS vision gun! PvP god roll = [Fastdraw/Steadyhand/Truesight/Hitmark HCS, Ricochet Rounds, Snapshot Sights, Rangefinder] {Range/Stability MW}
 dimwishlist:item=2742838701&perks=1926090094,1885400500,957782887,2846385770
-dimwishlist:item=2742838701&perks=1926090094,1885400500,47981717,2846385770
-dimwishlist:item=2742838701&perks=1926090094,1561002382,957782887,2846385770
-dimwishlist:item=2742838701&perks=1926090094,1561002382,47981717,2846385770
+dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770
+dimwishlist:item=2742838701&perks=1926090092,1885400500,957782887,2846385770
+dimwishlist:item=2742838701&perks=1926090093,1885400500,957782887,2846385770
 dimwishlist:item=2742838701&perks=957782887,2846385770
-dimwishlist:item=2742838701&perks=47981717,2846385770
 dimwishlist:item=-2742838701&perks=
 
 
