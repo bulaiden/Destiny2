@@ -1346,3 +1346,9 @@ dimwishlist:item=676270382&perks=3511092054,47981717
 dimwishlist:item=676270382&perks=3511092054,957782887
 dimwishlist:item=-676270382&perks=
 
+
+// Basso Ostinato Gambit
+//notes:PvP: it's a rapid-fire frame shotgun. PvE/Gambit: Destabilizing Rounds is gimmicky, has 3s cooldown, won't work well on guns w/ poor ammo economy. PvE god roll = [_, _, Grave Robber, One-Two Punch] {Handling/Range MW}
+dimwishlist:item=2573900604&perks=1631667848,2679249093
+dimwishlist:item=-2573900604&perks=
+
