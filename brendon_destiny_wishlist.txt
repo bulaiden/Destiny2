@@ -1213,8 +1213,8 @@ dimwishlist:item=-912150785&perks=
 dimwishlist:item=-1094005544&perks=
 
 
-// Forensic Nightmare trashmark
-//notes: [TRASHMARK] PvP trash (.02% usage). PvE trash (15th ranked SMG, .1% usage, obsoleted by Prolonged Engagement)
+// Forensic Nightmare
+//notes:[TRASHMARK] All trash perks for both PvP & PvE. Prolonged Engagement is better if you wanted Headstone for PvE
 dimwishlist:item=-1526296434&perks=
 
 
