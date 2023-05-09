@@ -568,15 +568,6 @@ dimwishlist:item=1197486957&perks=4267945040,3592538738
 dimwishlist:item=-1197486957&perks=
 
 
-// Fortissimo-11 PvE
-//notes: No longer viable in PvP after 1-shot Adagio cheese got patched. PvE (4.4) God Roll = [Arrowhead Brake(55), Assault Mag, DEMOLITIONIST/FOURTH TIME'S THE CHARM, VORPAL WEAPON]
-dimwishlist:item=2821430069&perks=839105230,791862061,3523296417,1546637391
-dimwishlist:item=2821430069&perks=839105230,791862061,1354429876,1546637391
-dimwishlist:item=2821430069&perks=3523296417,1546637391
-dimwishlist:item=2821430069&perks=1354429876,1546637391
-dimwishlist:item=-2821430069&perks=
-
-
 // Out of Bounds PvP
 //notes: PvE trash. Personally don't like for PvP because of the ugly ADS scope. PvP god roll = [Smallbore/Chambered Compensator/Extended Barrel/Corkscrew Rifling/Full Bore/Hammer-Forged Rifling, Ricochet Rounds, Dynamic Sway Reduction/Moving Target, Rangefinder] {Range/Stability MW}
 dimwishlist:item=2988121501&perks=1482024992,1885400500,1359896290,2846385770
@@ -1348,4 +1339,27 @@ dimwishlist:item=-676270382&perks=
 //notes:PvP: it's a rapid-fire frame shotgun. PvE/Gambit: Destabilizing Rounds is gimmicky, has 3s cooldown, won't work well on guns w/ poor ammo economy. PvE god roll = [_, _, Grave Robber, One-Two Punch] {Handling/Range MW}
 dimwishlist:item=2573900604&perks=1631667848,2679249093
 dimwishlist:item=-2573900604&perks=
+
+
+// Fortissimo-11 PvP
+//notes:PvE: missing Auto-Loading Holster that is needed for boss DPS. PvP god roll = [Fluted Barrel/Arrowhead Brake/Corkscrew Rifling/Full Bore/Hammer-Forged Rifling/Smallbore, Accurized Rounds/Assault Mag/Light Mag, Threat Detector, Opening Shot] {Range/Handling MW}
+dimwishlist:item=2821430069&perks=1840239774,3142289711,4071163871,47981717
+dimwishlist:item=2821430069&perks=1840239774,791862061,4071163871,47981717
+dimwishlist:item=2821430069&perks=1840239774,679225683,4071163871,47981717
+dimwishlist:item=2821430069&perks=839105230,3142289711,4071163871,47981717
+dimwishlist:item=2821430069&perks=839105230,791862061,4071163871,47981717
+dimwishlist:item=2821430069&perks=839105230,679225683,4071163871,47981717
+dimwishlist:item=2821430069&perks=4090651448,3142289711,4071163871,47981717
+dimwishlist:item=2821430069&perks=4090651448,791862061,4071163871,47981717
+dimwishlist:item=2821430069&perks=4090651448,679225683,4071163871,47981717
+dimwishlist:item=2821430069&perks=202670084,3142289711,4071163871,47981717
+dimwishlist:item=2821430069&perks=202670084,791862061,4071163871,47981717
+dimwishlist:item=2821430069&perks=202670084,679225683,4071163871,47981717
+dimwishlist:item=2821430069&perks=3250034553,3142289711,4071163871,47981717
+dimwishlist:item=2821430069&perks=3250034553,791862061,4071163871,47981717
+dimwishlist:item=2821430069&perks=3250034553,679225683,4071163871,47981717
+dimwishlist:item=2821430069&perks=1482024992,3142289711,4071163871,47981717
+dimwishlist:item=2821430069&perks=1482024992,791862061,4071163871,47981717
+dimwishlist:item=2821430069&perks=1482024992,679225683,4071163871,47981717
+dimwishlist:item=-2821430069&perks=
 
