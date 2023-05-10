@@ -1360,3 +1360,15 @@ dimwishlist:item=2715240478&perks=1482024992,689005463,3300816228,2978966579
 dimwishlist:item=2715240478&perks=1482024992,2969185026,3300816228,2978966579
 dimwishlist:item=-2715240478&perks=
 
+
+// Lodbrok-C
+//notes:PvE: no good PvE perks. PvP: Unsalvagable unless High-Impact Autos get a major buff. Target Lock activates on 5th bullet, making it almost completely useless (5H1B is meh). PvP god roll = [Fluted Barrel/Smallbore/Hammer-Forged Rifling/Chambered Compensator/Corkscrew Rifling/Polygonal Rifling/Arrowhead Brake, Ricochet Rounds, Dynamic Sway Reduction, Tap The Trigger] {Stability/Range/Handing MW}
+dimwishlist:item=2328531378&perks=1840239774,1885400500,1359896290,1890422124
+dimwishlist:item=2328531378&perks=1482024992,1885400500,1359896290,1890422124
+dimwishlist:item=2328531378&perks=3250034553,1885400500,1359896290,1890422124
+dimwishlist:item=2328531378&perks=1392496348,1885400500,1359896290,1890422124
+dimwishlist:item=2328531378&perks=4090651448,1885400500,1359896290,1890422124
+dimwishlist:item=2328531378&perks=3661387068,1885400500,1359896290,1890422124
+dimwishlist:item=2328531378&perks=839105230,1885400500,1359896290,1890422124
+dimwishlist:item=-2328531378&perks=
+
