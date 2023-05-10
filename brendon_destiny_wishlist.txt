@@ -1443,3 +1443,9 @@ dimwishlist:item=1016668089&perks=1047830412,679225683,3161816588,2679249093
 dimwishlist:item=1016668089&perks=1047830412,679225683,3300816228,2679249093
 dimwishlist:item=-1016668089&perks=
 
+
+// Crown-Splitter
+//notes:Whirlwind Blade isn't worth it because Aggressives have ~2/3 light attack speed of Adaptives (manually tested). Gambit god roll = [Jagged Edge, Heavy Guard, Relentless Strikes, Vorpal Weapon]
+dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391
+dimwishlist:item=-2782325302&perks=
+
