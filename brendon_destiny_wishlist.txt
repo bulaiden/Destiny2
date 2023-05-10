@@ -1397,3 +1397,8 @@ dimwishlist:item=1788603939&perks=1359896290,3511092054
 dimwishlist:item=1788603939&perks=1359896290,1890422124
 dimwishlist:item=-1788603939&perks=
 
+
+// Pleiades Corrector
+//notes:[TRASHMARK] PvE: bad PvE perks. PvP: bad PvP perks. 4-tap scout rifles aren't meta
+dimwishlist:item=-3556999246&perks=
+
