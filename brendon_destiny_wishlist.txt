@@ -1449,3 +1449,8 @@ dimwishlist:item=-1016668089&perks=
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391
 dimwishlist:item=-2782325302&perks=
 
+
+// Berenger's Memory
+//notes:[TRASHMARK] PvE: only has a kill-triggered damage perk (Rampage). Completely outclassed by Regnant. PvP: Rapid-Fire Frames aren't meta. Also doesn't have Impulse Amplifier
+dimwishlist:item=-407621213&perks=
+
