@@ -1061,11 +1061,9 @@ dimwishlist:item=2782847179&perks=706527188,47981717
 dimwishlist:item=-2782847179&perks=
 
 
-// Smite of Merain PvE
-//notes: [CRAFTABLE] PvP trash (16th ranked PR, .12% usage). PvE meta (4th ranked PR, .6% usage). PvE undisputed god roll = [Arrowhead Brake(70), Accurized Rounds/Tactical Mag/Flared Magwell, Demolitionist, Firefly] {Range MW}
+// Smite of Merain
+//notes:PvP: no good 4th column PvP perks. PvE god roll = [Arrowhead Brake(70), Accurized Rounds, Demolitionist, Firefly] {Range MW}
 dimwishlist:item=2221264583&perks=839105230,3142289711,1906147653,1183436451
-dimwishlist:item=2221264583&perks=839105230,106909392,1906147653,1183436451
-dimwishlist:item=2221264583&perks=839105230,3230963543,1906147653,1183436451
 dimwishlist:item=-2221264583&perks=
 
 
