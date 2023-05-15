@@ -351,22 +351,8 @@ dimwishlist:item=1621657423&perks=588594999,4082225868
 dimwishlist:item=-1621657423&perks=
 
 
-// Coriolis Force PvE
-//notes: Not a PvP gun (2.7). Aggressive Frame Fusion Rifles fire a FAT HORIZONTAL SPREAD. Stability & Recoil Direction DON'T MATTER because all shots come out at once. PvE god roll = [Fluted Barrel/Hammer-Forged Rifling/Full Bore, Accelerated Coils/Projection Fuse, KILLING WIND/FEEDING FRENZY, RANGEFINDER] {Charge Time MW}
-dimwishlist:item=3512349612&perks=1840239774,689005463,2450788523,2846385770
-dimwishlist:item=3512349612&perks=1840239774,689005463,2779035018,2846385770
-dimwishlist:item=3512349612&perks=1840239774,2969185026,2450788523,2846385770
-dimwishlist:item=3512349612&perks=1840239774,2969185026,2779035018,2846385770
-dimwishlist:item=3512349612&perks=3250034553,689005463,2450788523,2846385770
-dimwishlist:item=3512349612&perks=3250034553,689005463,2779035018,2846385770
-dimwishlist:item=3512349612&perks=3250034553,2969185026,2450788523,2846385770
-dimwishlist:item=3512349612&perks=3250034553,2969185026,2779035018,2846385770
-dimwishlist:item=3512349612&perks=202670084,689005463,2450788523,2846385770
-dimwishlist:item=3512349612&perks=202670084,689005463,2779035018,2846385770
-dimwishlist:item=3512349612&perks=202670084,2969185026,2450788523,2846385770
-dimwishlist:item=3512349612&perks=202670084,2969185026,2779035018,2846385770
-dimwishlist:item=3512349612&perks=2450788523,2846385770
-dimwishlist:item=3512349612&perks=2779035018,2846385770
+// Coriolis Force
+//notes:[TRASHMARK] Bungie: "Aggressive Frame Fusion Rifles was a failed experiment"
 dimwishlist:item=-3512349612&perks=
 
 
