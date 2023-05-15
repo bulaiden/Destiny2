@@ -1432,3 +1432,12 @@ dimwishlist:item=-2782325302&perks=
 //notes:[TRASHMARK] PvE: only has a kill-triggered damage perk (Rampage). Completely outclassed by Regnant. PvP: Rapid-Fire Frames aren't meta. Also doesn't have Impulse Amplifier
 dimwishlist:item=-407621213&perks=
 
+
+// Stars in Shadow
+//notes:PvE: nothing good. PvP: Nearly equal stats to Phyllotactic Spiral. Phyllotactic Spiral has superior perk combinations involving Elemental Capacitor. PvP god roll: [Arrowhead Brake, Accurized Rounds, Quickdraw, Snapshot Sights, Headseeker] {Range/Stability/Handling MW}
+dimwishlist:item=2050789284&perks=839105230,3142289711,706527188,957782887
+dimwishlist:item=2050789284&perks=839105230,3142289711,706527188,460017080
+dimwishlist:item=2050789284&perks=706527188,957782887
+dimwishlist:item=2050789284&perks=706527188,460017080
+dimwishlist:item=-2050789284&perks=
+
