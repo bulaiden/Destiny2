@@ -650,20 +650,8 @@ dimwishlist:item=3228096719&perks=839105230,3142289711,4116820839,1370847713
 dimwishlist:item=-3228096719&perks=
 
 
-// Frozen Orbit PvE & PvP
-//notes: Meta PvP gun. PvE undisputed = [Arrowhead Brake(75), Tactical Mag/Appended Mag, AUTO-LOADING HOLSTER, VORPAL WEAPON] {Handling MW}. PvP community = [Arrowhead Brake(75)/Fluted Barrel, Accurized Rounds, NO DISTRACTIONS/MOVING TARGET, SNAPSHOT SIGHTS] {Handling MW}. PvP AA = [Arrowhead Brake(75)/Fluted Barrel, Accurized Rounds, MOVING TARGET, OPENING SHOT] {Handling MW} *78 AA. The only Aggressive Frame that can roll Moving Target + Opening Shot*
-dimwishlist:item=3473290087&perks=839105230,106909392,3300816228,1546637391
-dimwishlist:item=3473290087&perks=839105230,1087426260,3300816228,1546637391
-dimwishlist:item=3473290087&perks=3300816228,1546637391
-dimwishlist:item=3473290087&perks=839105230,3142289711,2866798147,957782887
-dimwishlist:item=3473290087&perks=839105230,3142289711,588594999,957782887
-dimwishlist:item=3473290087&perks=1840239774,3142289711,2866798147,957782887
-dimwishlist:item=3473290087&perks=1840239774,3142289711,588594999,957782887
-dimwishlist:item=3473290087&perks=2866798147,957782887
-dimwishlist:item=3473290087&perks=588594999,957782887
-dimwishlist:item=3473290087&perks=839105230,3142289711,588594999,47981717
-dimwishlist:item=3473290087&perks=1840239774,3142289711,588594999,47981717
-dimwishlist:item=3473290087&perks=588594999,47981717
+// Frozen Orbit
+//notes:[TRASHMARK] PvE: meh perks. PvP: doesn't have Snapshot Sights + Opening Shot
 dimwishlist:item=-3473290087&perks=
 
 
