@@ -1448,3 +1448,18 @@ dimwishlist:item=-2026087437&perks=
 //notes:[TRASHMARK] PvE: no good perks. PvP: Firmly Planted is the only 3rd column PvP perk. I don't like Firmly Planted
 dimwishlist:item=-3055192515&perks=
 
+
+// The Keening
+//notes:PvE: no good perks. PvP god roll: [hammer-forged rifling/smallbore/full bore/extended barrel/corkscrew rifling, ricochet rounds/high-caliber rounds, moving target, snapshot sights] {range/stability MW}
+dimwishlist:item=409551876&perks=3250034553,1885400500,588594999,957782887
+dimwishlist:item=409551876&perks=3250034553,1561002382,588594999,957782887
+dimwishlist:item=409551876&perks=1482024992,1885400500,588594999,957782887
+dimwishlist:item=409551876&perks=1482024992,1561002382,588594999,957782887
+dimwishlist:item=409551876&perks=202670084,1885400500,588594999,957782887
+dimwishlist:item=409551876&perks=202670084,1561002382,588594999,957782887
+dimwishlist:item=409551876&perks=1467527085,1885400500,588594999,957782887
+dimwishlist:item=409551876&perks=1467527085,1561002382,588594999,957782887
+dimwishlist:item=409551876&perks=4090651448,1885400500,588594999,957782887
+dimwishlist:item=409551876&perks=4090651448,1561002382,588594999,957782887
+dimwishlist:item=-409551876&perks=
+
