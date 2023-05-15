@@ -1463,3 +1463,8 @@ dimwishlist:item=2026087437&perks=981914802,3032599245,3300816228,2978966579,415
 dimwishlist:item=2026087437&perks=3798852852,3032599245,3300816228,2978966579,4154828211
 dimwishlist:item=-2026087437&perks=
 
+
+// Timelines' Vertex
+//notes:[TRASHMARK] PvE: no good perks. PvP: Firmly Planted is the only 3rd column PvP perk. I don't like Firmly Planted
+dimwishlist:item=-3055192515&perks=
+
