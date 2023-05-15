@@ -1456,3 +1456,12 @@ dimwishlist:item=-409551876&perks=
 //notes:[TRASHMARK] PvE: no good perks. PvP: 4-tap precision frame is unacceptable
 dimwishlist:item=-310708513&perks=
 
+
+// Sorrow's Verse
+//notes:PvE: no good perks. PvP god roll = [Arrowhead Brake(53), Accurized Rounds, Tap The Trigger/Dynamic Sway Reduction, Snapshot Sights] {Range/Stability MW}
+dimwishlist:item=2496875173&perks=839105230,3142289711,1890422124,957782887
+dimwishlist:item=2496875173&perks=839105230,3142289711,1359896290,957782887
+dimwishlist:item=2496875173&perks=1890422124,957782887
+dimwishlist:item=2496875173&perks=1359896290,957782887
+dimwishlist:item=-2496875173&perks=
+
