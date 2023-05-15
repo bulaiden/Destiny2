@@ -1490,3 +1490,8 @@ dimwishlist:item=2888266564&perks=4090651448,1561002382,588594999,957782887
 dimwishlist:item=2888266564&perks=4090651448,1561002382,588594999,3511092054
 dimwishlist:item=-2888266564&perks=
 
+
+// Blowout
+//notes:[TRASHMARK] PvE: The Hothead is superior (better perks). PvP: High-Impact Frames w/ Impulse Amplifier is superior
+dimwishlist:item=-1903182562&perks=
+
