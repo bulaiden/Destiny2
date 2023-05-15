@@ -1451,3 +1451,8 @@ dimwishlist:item=409551876&perks=4090651448,1885400500,588594999,957782887
 dimwishlist:item=409551876&perks=4090651448,1561002382,588594999,957782887
 dimwishlist:item=-409551876&perks=
 
+
+// Survivor's Epitaph
+//notes:[TRASHMARK] PvE: no good perks. PvP: 4-tap precision frame is unacceptable
+dimwishlist:item=-310708513&perks=
+
