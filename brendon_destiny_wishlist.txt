@@ -1467,3 +1467,8 @@ dimwishlist:item=-3175851496&perks=
 //notes:PvP: missing Impulse Amplifier. PvE: dominated by Wendigo GL3 (perk combinations + base stats)
 dimwishlist:item=-2257180473&perks=
 
+
+// Sojourner's Tale
+//notes:[TRASHMARK] Strictly inferior to Gunnora's Axe
+dimwishlist:item=-599895591&perks=
+
