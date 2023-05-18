@@ -1481,3 +1481,8 @@ dimwishlist:item=2582755344&perks=839105230,1968497646,3300816228,1546637391
 dimwishlist:item=2582755344&perks=3300816228,1546637391
 dimwishlist:item=-2582755344&perks=
 
+
+// Marsilion-C
+//notes:[TRASHMARK] PvP: rapid-fire grenade launchers aren't meta in PvP. PvE: Cry Mutiny is superior due to being Adaptive Frame and having stronger perk combinations
+dimwishlist:item=-867154247&perks=
+
