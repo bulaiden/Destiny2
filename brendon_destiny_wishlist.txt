@@ -1497,3 +1497,8 @@ dimwishlist:item=-2888266564&perks=
 //notes:[TRASHMARK] PvE: The Hothead is superior (better perks). PvP: High-Impact Frames w/ Impulse Amplifier is superior
 dimwishlist:item=-1903182562&perks=
 
+
+// Red Herring
+//notes:[TRASHMARK] PvE: no good perk combinations for PvE. PvP: Adaptive Frame Rockets aren't good for PvP
+dimwishlist:item=-3175851496&perks=
+
