@@ -1469,3 +1469,8 @@ dimwishlist:item=-2582755344&perks=
 //notes:[TRASHMARK] PvP: rapid-fire grenade launchers aren't meta in PvP. PvE: Cry Mutiny is superior due to being Adaptive Frame and having stronger perk combinations
 dimwishlist:item=-867154247&perks=
 
+
+// Abide the Return
+//notes:[TRASHMARK] PvE: Ad-clear? Caretaker w/ Incandescent is better. DPS? Throne-Cleaver / Lament is better. PvP: no Eager Edge
+dimwishlist:item=-1644160541&perks=
+
