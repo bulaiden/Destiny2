@@ -1472,3 +1472,11 @@ dimwishlist:item=-2257180473&perks=
 //notes:[TRASHMARK] Strictly inferior to Gunnora's Axe
 dimwishlist:item=-599895591&perks=
 
+
+// Seventh Seraph SAW
+//notes:PvP: no good perk combinations for PvP. PvE god roll = [Arrowhead Brake(41), Ricochet Rounds/Armor-Piercing Rounds/High-Caliber Rounds, Auto-Loading Holster, Vorpal Weapon]
+dimwishlist:item=2582755344&perks=839105230,1885400500,3300816228,1546637391
+dimwishlist:item=2582755344&perks=839105230,1561002382,3300816228,1546637391
+dimwishlist:item=2582755344&perks=839105230,1968497646,3300816228,1546637391
+dimwishlist:item=-2582755344&perks=
+
