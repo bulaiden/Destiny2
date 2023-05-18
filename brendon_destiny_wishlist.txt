@@ -1457,3 +1457,8 @@ dimwishlist:item=-867154247&perks=
 //notes:[TRASHMARK] PvE: Ad-clear? Caretaker w/ Incandescent is better. DPS? Throne-Cleaver / Lament is better. PvP: no Eager Edge
 dimwishlist:item=-1644160541&perks=
 
+
+// Nasreddin
+//notes:[TRASHMARK] The only Adaptive Frame Sword w/ Relentless Strikes + Whirlwind Blade. But who cares? That roll is specifically for boss DPS. Gazillion other things will be sufficient/better for boss DPS
+dimwishlist:item=-1456017061&perks=
+
