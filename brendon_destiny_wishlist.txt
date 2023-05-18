@@ -1462,3 +1462,8 @@ dimwishlist:item=-1903182562&perks=
 //notes:[TRASHMARK] PvE: no good perk combinations for PvE. PvP: Adaptive Frame Rockets aren't good for PvP
 dimwishlist:item=-3175851496&perks=
 
+
+// Interference VI
+//notes:PvP: missing Impulse Amplifier. PvE: dominated by Wendigo GL3 (perk combinations + base stats)
+dimwishlist:item=-2257180473&perks=
+
