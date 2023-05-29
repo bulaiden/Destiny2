@@ -1512,3 +1512,8 @@ dimwishlist:item=-1606497639&perks=
 //notes:[TRASHMARK] PvE: no good damage perk. PvP: rapid-fire frames aren't meta. No Impulse Amplifier
 dimwishlist:item=-2721157927&perks=
 
+
+// Recurrent Impact
+//notes:[TRASHMARK] PvE: Qullim's Terminus has Killing Tally. PvP: no good 3rd column PvP perk
+dimwishlist:item=-1572896086&perks=
+
