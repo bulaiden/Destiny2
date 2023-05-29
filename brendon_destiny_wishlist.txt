@@ -1522,3 +1522,8 @@ dimwishlist:item=-1572896086&perks=
 //notes:[TRASHMARK] PvE: outclassed by Techeun Force's Reconstruction + Controlled Burst. PvP: no good 4th column PvP perk
 dimwishlist:item=-607191995&perks=
 
+
+// Come to Pass
+//notes:[TRASHMARK] PvE: Mediocre perks. No Voltshot. PvP: Literally all bad perks for PvP
+dimwishlist:item=-927567426&perks=
+
