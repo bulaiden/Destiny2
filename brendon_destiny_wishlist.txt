@@ -1501,3 +1501,9 @@ dimwishlist:item=-1150492185&perks=
 // Just in Case
 //notes:[TRASHMARK] PvE: Caretaker offers a craftable version of the best roll that this sword can get (Relentless Strikes + Incandescent). PvP: No Eager Edge
 dimwishlist:item=-1139727256&perks=
+
+
+// Harsh Language
+//notes:[TRASHMARK] PvE: outclassed by Deafening Whisper's Ambitious Assassin. PvP: no good 3rd/4th column perks for PvP
+dimwishlist:item=-1606497639&perks=
+
