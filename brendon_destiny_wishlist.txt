@@ -1462,3 +1462,16 @@ dimwishlist:item=-1644160541&perks=
 //notes:[TRASHMARK] The only Adaptive Frame Sword w/ Relentless Strikes + Whirlwind Blade. But who cares? That roll is specifically for boss DPS. Gazillion other things will be sufficient/better for boss DPS
 dimwishlist:item=-1456017061&perks=
 
+
+// Spare Rations
+//notes:PvE: [_, Ricochet Rounds/High-Caliber Rounds/Armor-Piercing Rounds, Rapid Hit/Snapshot Sights, Kinetic Tremors]. PvP: Bottom-of-the-barrel base stats. Used to be 150RPM. Now is a 140RPM with a 150 RPM's stats
+dimwishlist:item=3236112986&perks=1885400500,247725512,3891536761
+dimwishlist:item=3236112986&perks=1885400500,957782887,3891536761
+dimwishlist:item=3236112986&perks=1561002382,247725512,3891536761
+dimwishlist:item=3236112986&perks=1561002382,957782887,3891536761
+dimwishlist:item=3236112986&perks=1968497646,247725512,3891536761
+dimwishlist:item=3236112986&perks=1968497646,957782887,3891536761
+dimwishlist:item=3236112986&perks=247725512,3891536761
+dimwishlist:item=3236112986&perks=957782887,3891536761
+dimwishlist:item=-3236112986&perks=
+
