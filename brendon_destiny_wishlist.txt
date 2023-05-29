@@ -1475,3 +1475,12 @@ dimwishlist:item=3236112986&perks=247725512,3891536761
 dimwishlist:item=3236112986&perks=957782887,3891536761
 dimwishlist:item=-3236112986&perks=
 
+
+// Bug-Out Bag
+//notes:PvE: [_, Ricochet Rounds/High-Caliber Rounds/Armor-Piercing Rounds, Subsistence, Incandescent]. PvP: literally all perks are bad for PvP
+dimwishlist:item=2832639510&perks=1885400500,1820235745,4293542123
+dimwishlist:item=2832639510&perks=1561002382,1820235745,4293542123
+dimwishlist:item=2832639510&perks=1968497646,1820235745,4293542123
+dimwishlist:item=2832639510&perks=1820235745,4293542123
+dimwishlist:item=-2832639510&perks=
+
