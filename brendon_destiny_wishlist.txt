@@ -1494,3 +1494,17 @@ dimwishlist:item=4287947559&perks=1087426260,691659142,2679249093
 dimwishlist:item=4287947559&perks=691659142,2679249093
 dimwishlist:item=-4287947559&perks=
 
+
+// Outlast
+//notes:[TRASHMARK] PvE: No incandescent. No damage perk on 3rd column. PvP: Rapid-Fire Frame Pulse Rifles aren't meta. No Headseeker is unacceptable. Nearly bottom of the barrel base stats
+dimwishlist:item=-1678205741&perks=
+
+
+// Sole Survivor
+//notes:[TRASHMARK] PvE: no autofill/overflow ammo perks. Voltshot isn't sensible on a sniper because of ammo economy issues. PvP: no good 4th column PvP perk
+dimwishlist:item=-1150492185&perks=
+
+
+// Just in Case
+//notes:[TRASHMARK] PvE: Caretaker offers a craftable version of the best roll that this sword can get (Relentless Strikes + Incandescent). PvP: No Eager Edge
+dimwishlist:item=-1139727256&perks=
