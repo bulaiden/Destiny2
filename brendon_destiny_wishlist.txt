@@ -1507,3 +1507,8 @@ dimwishlist:item=-1139727256&perks=
 //notes:[TRASHMARK] PvE: outclassed by Deafening Whisper's Ambitious Assassin. PvP: no good 3rd/4th column perks for PvP
 dimwishlist:item=-1606497639&perks=
 
+
+// Tarnation
+//notes:[TRASHMARK] PvE: no good damage perk. PvP: rapid-fire frames aren't meta. No Impulse Amplifier
+dimwishlist:item=-2721157927&perks=
+
