@@ -1484,3 +1484,13 @@ dimwishlist:item=2832639510&perks=1968497646,1820235745,4293542123
 dimwishlist:item=2832639510&perks=1820235745,4293542123
 dimwishlist:item=-2832639510&perks=
 
+
+// Last Man Standing
+//notes:PvE/Gambit = [_, Assault Mag/Accurized Rounds/Tactical Mag/Appended Mag, Pugilist, One-Two Punch]. PvP: no good 4th column PvP perk
+dimwishlist:item=4287947559&perks=791862061,691659142,2679249093
+dimwishlist:item=4287947559&perks=3142289711,691659142,2679249093
+dimwishlist:item=4287947559&perks=106909392,691659142,2679249093
+dimwishlist:item=4287947559&perks=1087426260,691659142,2679249093
+dimwishlist:item=4287947559&perks=691659142,2679249093
+dimwishlist:item=-4287947559&perks=
+
