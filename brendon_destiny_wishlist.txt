@@ -1517,3 +1517,8 @@ dimwishlist:item=-2721157927&perks=
 //notes:[TRASHMARK] PvE: Qullim's Terminus has Killing Tally. PvP: no good 3rd column PvP perk
 dimwishlist:item=-1572896086&perks=
 
+
+// Hollow Words
+//notes:[TRASHMARK] PvE: outclassed by Techeun Force's Reconstruction + Controlled Burst. PvP: no good 4th column PvP perk
+dimwishlist:item=-607191995&perks=
+
